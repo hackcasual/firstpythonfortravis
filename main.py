@@ -1,6 +1,8 @@
 import random
 import unittest
 
+
+"""What is up"""
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
