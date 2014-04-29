@@ -1,6 +1,7 @@
 import random
 import unittest
-
+import cv2
+import numpy as np
 
 """What is up"""
 class TestSequenceFunctions(unittest.TestCase):
