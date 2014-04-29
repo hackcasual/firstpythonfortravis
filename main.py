@@ -2,7 +2,7 @@ import random
 import unittest
 import sys
 
-print sys.path
+sys.path.insert(0,'/usr/lib/pyshared/python2.7')
 
 import cv2
 import numpy as np
