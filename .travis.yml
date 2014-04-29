@@ -1,8 +1,8 @@
 language: python
 
 before_install:
- - sudo apt-get update -qq
- - sudo apt-get install -qq python-opencv
+ - sudo apt-get update
+ - sudo apt-get install python-opencv
 
 install:
   - "pip install --pre -r requirements.txt"

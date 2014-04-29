@@ -1,5 +1,9 @@
 import random
 import unittest
+import sys
+
+print sys.path
+
 import cv2
 import numpy as np
 
